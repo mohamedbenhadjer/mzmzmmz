@@ -125,5 +125,5 @@ bot.remove_webhook()
 time.sleep(0.1)
 
 # Set webhook (replace with your Vercel URL)
-webhook_url = 'https://your-vercel-project-url/api/bot'
+webhook_url = 'https://mzmzmmz.vercel.app/'
 bot.set_webhook(url=webhook_url)
